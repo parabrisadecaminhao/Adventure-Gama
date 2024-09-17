@@ -9,3 +9,4 @@ avanca.forEach(button => {
         document.getElementById(proximoPasso).classList.add('ativo');
     })
 })
+//Foi a Alice que fez ein
